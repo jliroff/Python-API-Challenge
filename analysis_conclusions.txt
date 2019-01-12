@@ -1,0 +1,7 @@
+Three trends based on the data
+
+1. Based on the 560 randomly selected cities in this data set, the closer the city is to the equator the higher the temperature. 
+
+2. In this selection of cities a majority of cities despite their distance from the equator have a wind speed between 0 and 15 mph. 
+
+3.
